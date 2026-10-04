@@ -1,0 +1,18 @@
+{
+  "accuracy": 0.8433333333333333,
+  "accuracy_std": 0.03299831645537225,
+  "sensitivity": 0.85,
+  "sensitivity_std": 0.035355339059327355,
+  "specificity": 0.8416666666666668,
+  "specificity_std": 0.03761556267764125,
+  "auc": 0.918125,
+  "auc_std": 0.014805597899668491,
+  "dice_mean": 0.8117380201412964,
+  "jaccard_mean": 0.7119829843430157,
+  "config": {
+    "wavelet": "haar",
+    "level": 2,
+    "hair_removal": true
+  },
+  "threshold": 0.2
+}
